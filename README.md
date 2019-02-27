@@ -41,7 +41,7 @@ raw form of data:
 
 * The strange [binary file](http://en.wikipedia.org/wiki/Binary_file) your measurement machine spits out
 * The unformatted Excel file with 10 worksheets the company you contracted with sent you
-* The complicated [JSON](http://en.wikipedia.org/wiki/JSON) data you got from scraping the [Twitter API](https://twitter.com/twitterapi)
+* The complicated [JSON](http://en.wikipedia.org/wiki/JSON) data you got from scraping the [Twitter API](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
 * The hand-entered numbers you collected looking through a microscope
 
 You know the raw data are in the right format if you: 
